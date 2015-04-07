@@ -221,18 +221,18 @@ aerial,normal = [],[]
 
 for res in zip(results,allFiles):
     if res[0] == 1:
-        aerial.append(res)
+        aerial.append(res[1])
     else:
-        normal.append(res)
+        normal.append(res[1])
 
 f = open("./aerial.txt",'w')
 for res in aerial:
-    f.writelines("\t".join([str(i) for i in res])+"\n")
+    f.writelines(res+"\n")
 f.close()
 
 f = open("./normal.txt",'w')
 for res in normal:
-    f.writelines("\t".join([str(i) for i in res])+"\n")
+    f.writelines(res)+"\n")
 f.close()
 
 
