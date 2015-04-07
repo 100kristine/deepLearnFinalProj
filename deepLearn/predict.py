@@ -232,7 +232,7 @@ f.close()
 
 f = open("./normal.txt",'w')
 for res in normal:
-    f.writelines(res)+"\n")
+    f.writelines(res+"\n")
 f.close()
 
 
