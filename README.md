@@ -12,3 +12,8 @@ python predict.py "./sample"
 Output:
 aerial.txt
 normal.txt
+
+
+Dependencies:
+Theano
+Anaconda [numpy, scipy, pandas]
