@@ -8,7 +8,7 @@ Run with: python predict.py "directory path"
 
 [looks at all files in directory and child directories]
 
-python predict.py "./Samples"
+python predict.py "./sample"
 Output:
 aerial.txt
 normal.txt
