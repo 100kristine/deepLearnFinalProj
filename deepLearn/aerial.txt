@@ -1,0 +1,6 @@
+1	./Sample/Aerial/2015-03-07 10.17.08_normal_1050.jpg
+1	./Sample/Aerial/2015-03-07 10.17.08_normal_1080.jpg
+1	./Sample/Aerial/2015-03-07 11.06.07.jpg
+1	./Sample/Aerial/2015-03-07 11.06.27.jpg
+1	./Sample/Aerial/2015-03-07 11.07.01.jpg
+1	./Sample/Aerial/2015-03-07 11.07.16.jpg
